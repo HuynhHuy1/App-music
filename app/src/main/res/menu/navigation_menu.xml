@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="List"
+        android:id="@+id/menuList"
+        android:icon="@drawable/listunselect"
+        />
+    <item
+        android:title="Home"
+        android:id="@+id/menuHome"
+        android:icon="@drawable/homeunselect"
+        />
+    <item
+        android:title="Home"
+        android:id="@+id/favorite_menu"
+        android:icon="@drawable/heart_outline"
+        />
+<!--    <item-->
+<!--        android:title="List"-->
+<!--        android:id="@+id/menuListSelected"-->
+<!--        android:icon="@drawable/listselected"-->
+<!--        />-->
+</menu>
