@@ -70,12 +70,12 @@ class listItemAdapter(var list : ArrayList<Model>,var  onClick : handleOnClickIt
                     if(list[position].name.equals(item.name)){
                         holder.heart.setBackgroundResource(R.drawable.heart_fill)
                     }
-                    //sss
                 }
             }
 
         }
 
     }
+    //github
 
 }
