@@ -51,6 +51,7 @@ class handlerSeekbar(var mediaPlayer: MediaPlayer) {
             catch (e : IOException){
                 Log.d("TAG", "handler: ")
             }
+            // change
 
 
 
